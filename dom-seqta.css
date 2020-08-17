@@ -22,7 +22,14 @@ p {
 	font-size: 2em;
 	text-shadow: 3px 3px 8px #000000;
 }
-
+.sub-heading {
+	font-family: skippy-sharp, serif;
+	font-weight: 400;
+	font-style: normal;
+	color: #f7a816;
+	font-size: 1.5em;
+	text-shadow: 3px 3px 8px #000000;
+}
 .h-gold {
 	color: #a2863d;
 	font-size: 2em;
