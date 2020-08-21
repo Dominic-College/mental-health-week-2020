@@ -117,7 +117,7 @@ h2 {
 .splash-table td {
     font-family: Calibri, sans-serif;
 	font-style: normal;
-	font-size: 1.3em;
+	font-size: 1em;
     text-decoration: none;
 }
 
@@ -139,7 +139,7 @@ h2 {
     padding: 10px;
 	font-family: trajan-pro-3, serif;
 	font-style: normal;
-	font-size: 1.5em;
+	font-size: 1.2em;
     color: white;
 	text-shadow: 3px 3px 8px #000000;
 	width: 100px;
@@ -169,31 +169,36 @@ h2 {
 
 .wht-td {
 	color: white;
-	padding: 10px 20px;
+	padding: 10px;
+	width: 100px;
 }
 
 .mhfa-td {
 	background-color: #E0AF55;
 	color: black;
-	padding: 10px 20px;
+	padding: 10px;
+	width: 100px;
 }
 
 .nm-td {
 	background-color: #67B96E;
 	color: black;
-	padding: 10px 20px;
+	padding: 10px;
+	width: 100px;
 }
 
 .chaty-td {
 	background-color: #472E8D;
 	color: white;
-	padding: 10px 20px;
+	padding: 10px;
+	width: 100px;
 }
 
 .fr101-td {
 	background-color: #62AFBA;
 	color: black;
-	padding: 10px 20px;
+	padding: 10px;
+	width: 100px;
 }
 
 .K-6-td {
