@@ -114,13 +114,10 @@ h2 {
 }
 
 .splash-table td {
-    padding: 5px;
-    font-family: "Calibri Light", Verdana, sans-serif;
-	color: white;
+    font-family: Calibri, sans-serif;
 	font-style: normal;
-	font-size: 1.2em;
+	font-size: 1.3em;
     text-decoration: none;
-    text-shadow: 3px 3px 8px #000000;
 }
 
 .nwp {
@@ -138,18 +135,19 @@ h2 {
 .tbl-th-1 {
     border: 5px ridge #8B1C40;
     border-collapse: collapse;
-    padding: 5px;
+    padding: 10px;
 	font-family: trajan-pro-3, serif;
 	font-style: normal;
 	font-size: 1.5em;
     color: white;
 	text-shadow: 3px 3px 8px #000000;
+	width: 100px;
 }
 
 .tbl-th-2 {
     border: 5px ridge #8B1C40;
     border-collapse: collapse;
-    padding: 5px;
+    padding: 10px;
 	font-family: trajan-pro-3, serif;
 	font-style: normal;
 	font-size: 1em;
@@ -160,6 +158,41 @@ h2 {
 .lt-brd {
     border: 1px solid #8B1C40;
     border-collapse: collapse;
+}
+
+.tb-first-col {
+	width: 90px;
+	color: white;
+	padding: 5px;
+}
+
+.wht-td {
+	color: white;
+	padding: 10px 20px;
+}
+
+.mhfa-td {
+	background-color: #E0AF55;
+	color: black;
+	padding: 10px 20px;
+}
+
+.nm-td {
+	background-color: #67B96E;
+	color: black;
+	padding: 10px 20px;
+}
+
+.chaty-td {
+	background-color: #472E8D;
+	color: white;
+	padding: 10px 20px;
+}
+
+.fr101-td {
+	background-color: #62AFBA;
+	color: black;
+	padding: 10px 20px;
 }
 
 .bd-right {
