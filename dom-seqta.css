@@ -45,7 +45,6 @@ h2 {
 	color: #f15d3f;
 	font-size: 1.8em;
 	text-shadow: 3px 3px 8px #000000;
-	margin-bottom: -20px;
 }
 
 /* Splash Page Content Styles */
@@ -99,7 +98,12 @@ h2 {
 	float: right;
 	clear: both;
 	content: "";
-	margin: 20px 20px 50px 50px;
+	margin: 20px 20px 50px 50px;	
+}
+
+.act-img {
+	width: 250px;
+	padding: 30px;
 	
 }
 
@@ -205,6 +209,10 @@ h2 {
 	background-color: #62AFBA;
 	color: black;
 	padding: 10px 20px;
+}
+
+.k6-h2 {
+	margin-bottom: -20px;
 }
 
 .bd-right {
