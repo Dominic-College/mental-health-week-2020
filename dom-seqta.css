@@ -278,7 +278,7 @@ h2 {
     font-size: .5em;
 }
 
-.scr-box a {
+.mhs-link {
     text-decoration: none;
     font-weight: bold;
     font-family:  Calibri;
@@ -286,7 +286,7 @@ h2 {
     color: black;
 }
 
-.scr-box a:hover {
+.mhs-link:hover {
     color: firebrick;
 }
 
@@ -315,3 +315,9 @@ h2 {
     vertical-align: top;
     padding: 15px;    
 }
+
+.mhs-td:hover {
+	background-color: #EFA495;
+	cursor: pointer;
+}
+
